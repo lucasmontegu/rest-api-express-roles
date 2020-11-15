@@ -56,7 +56,7 @@ Update product: [POST] http://localhost:3000/api/v1/products/:id
 ```
 
 ## Current Version
-In this current version 1.0.0, route authentication and validation middleware was configured.
+In this current version 0.0.1, route authentication and validation middleware was configured.
 
 ## Next Version
 
